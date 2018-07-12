@@ -3,3 +3,9 @@ c:\users\pe0738\documents\visual studio 2012\Projects\SuperAdventure\Engine\bin\
 c:\users\pe0738\documents\visual studio 2012\Projects\SuperAdventure\Engine\obj\Debug\Engine.csprojResolveAssemblyReference.cache
 c:\users\pe0738\documents\visual studio 2012\Projects\SuperAdventure\Engine\obj\Debug\Engine.dll
 c:\users\pe0738\documents\visual studio 2012\Projects\SuperAdventure\Engine\obj\Debug\Engine.pdb
+C:\Users\Rubén\OneDrive - Raona\Learning\Projects for Fun\C#\origin\Engine\bin\Debug\Engine.dll
+C:\Users\Rubén\OneDrive - Raona\Learning\Projects for Fun\C#\origin\Engine\bin\Debug\Engine.pdb
+C:\Users\Rubén\OneDrive - Raona\Learning\Projects for Fun\C#\origin\Engine\obj\Debug\Engine.csprojAssemblyReference.cache
+C:\Users\Rubén\OneDrive - Raona\Learning\Projects for Fun\C#\origin\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Users\Rubén\OneDrive - Raona\Learning\Projects for Fun\C#\origin\Engine\obj\Debug\Engine.dll
+C:\Users\Rubén\OneDrive - Raona\Learning\Projects for Fun\C#\origin\Engine\obj\Debug\Engine.pdb
